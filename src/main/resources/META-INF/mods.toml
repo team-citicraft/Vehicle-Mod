@@ -10,7 +10,7 @@ logoFile="examplemod.png"
 credits="To the team that helped create the mod"
 authors="WynnKunGz, Shadow"
 description='''
-Adds the building blocks for the modpack we are making
+Adds the vehicles for the modpack we are making
 '''
 
 [[dependencies.examplemod]]
