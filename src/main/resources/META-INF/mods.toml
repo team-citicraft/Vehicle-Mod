@@ -8,7 +8,7 @@ version="${file.jarVersion}"
 displayName="Vehicle Mod"
 logoFile="examplemod.png"
 credits="To the team that helped create the mod"
-authors="WynnKunGz, Shadow"
+authors="PurplePineapple, WynnKunGz, Shadow"
 description='''
 Adds the vehicles for the modpack we are making
 '''
